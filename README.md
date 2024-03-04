@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Proramming languages list</h2>
+<h2 align="left">I can code any of these languages</h2>
 
 ###
 
