@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since the start of my youth days i'm 21 now btw<br>📚 I'm currently enhancing my backend skills using node<br>🎯 Goal is to become Software Engineer Aye, want that since i was young<br>🎲 I listened to a lot of lofi btw</p>
+<p align="left">✨ Coding since the start of my youth days i'm 21 now btw<br>📚 I'm currently enhancing my backend skills using node<br>🎯 Goal is to become Software Engineer aye, want that since i was young<br>🎲 I listened to a lot of lofi btw</p>
 
 ###
 
