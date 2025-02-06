@@ -11,9 +11,6 @@ Welcome to my GitHub profile! I'm a 4th-year student passionate about web develo
 ### Design & Prototyping:
 - **Design Tools**: Figma
 
-## 📈 GitHub Stats:
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radic)
-
 ## 🌱 Currently Learning:
 - Advanced JavaScript and Frameworks (React.js, Node.js)
 - Backend Development with PHP and MySQL
