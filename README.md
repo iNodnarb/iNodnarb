@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Brandon G 👋
 
-<!--
-**iNodnarb/iNodnarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a 4th-year student passionate about web development and design. I love building projects with modern web technologies and exploring creative ways to solve problems.
 
-Here are some ideas to get you started:
+## 🌐 Technologies & Tools:
+### Web Development:
+- **Languages**: HTML5, CSS3, JavaScript, PHP, SQL
+- **Frameworks & Libraries**: Bootstrap
+- **Tools**: VS Code, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Design & Prototyping:
+- **Design Tools**: Figma
+
+## 📈 GitHub Stats:
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 🌱 Currently Learning:
+- Advanced JavaScript and Frameworks (React.js, Node.js)
+- Backend Development with PHP and MySQL
+- UI/UX best practices
+
+## 🚀 Fun Facts:
+- I'm currently working on personal web development projects to improve my full-stack skills.
+- I enjoy solving algorithm challenges and coding for fun in my spare time.
+- I also love experimenting with Figma to create beautiful user interfaces.
+
+## 📫 How to reach me:
+- Email: your-email@example.com
+- LinkedIn: [Brandon G LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- Twitter: [@BrandonGDev](https://twitter.com/your-twitter)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. 😄
