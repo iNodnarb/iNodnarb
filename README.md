@@ -1,6 +1,6 @@
-# Hey, I'm Brandon G 👋
+# Aye 🌎, I'm Brandon Logon 
 
-Welcome to my GitHub profile! I'm a 4th-year student passionate about web development and design. I love building projects with modern web technologies and exploring creative ways to solve problems.
+Welcome to my GitHub profile! I'm a 4th-year student passionate about web development front end and design. I love building projects with modern web technologies and exploring creative ways to solve problems.
 
 ## 🌐 Technologies & Tools:
 ### Web Development:
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a 4th-year student passionate about web develo
 - **Design Tools**: Figma
 
 ## 📈 GitHub Stats:
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radic)
 
 ## 🌱 Currently Learning:
 - Advanced JavaScript and Frameworks (React.js, Node.js)
@@ -25,9 +25,8 @@ Welcome to my GitHub profile! I'm a 4th-year student passionate about web develo
 - I also love experimenting with Figma to create beautiful user interfaces.
 
 ## 📫 How to reach me:
-- Email: your-email@example.com
-- LinkedIn: [Brandon G LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- Twitter: [@BrandonGDev](https://twitter.com/your-twitter)
+- Email: bradglogon@gmail.com
+- LinkedIn: [Brandon G LinkedIn](https://www.linkedin.com/in/brandon-logon-b11b51291/)
 
 ---
 
